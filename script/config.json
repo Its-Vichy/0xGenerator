@@ -1,0 +1,19 @@
+{
+    "captcha_key": "b18a9ae4",
+    "captcha_api": "anti-captcha.com",
+
+    "email_key": "840c12b79779aa868",
+    "email_api": "hotmailbox",
+
+    "phone_key": "337dfAfd99183",
+
+    "threads": 51,
+    "debug": true,
+    "captcha_by_hand": false,
+
+    "username": "its_vichy",
+    "password": "uwu",
+
+    "verify_mail": false,
+    "verify_phone": false
+}

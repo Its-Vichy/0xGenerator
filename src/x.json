@@ -1,0 +1,40 @@
+{
+  "os": "Windows",
+  "browser": "Discord Client",
+  "release_channel": "ptb",
+  "client_version": "1.0.1012",
+  "os_version": "10.0.19042",
+  "os_arch": "x64",
+  "system_locale": "fr",
+  "client_build_number": 113584,
+  "client_event_source": null
+}
+
+{
+  "os": "Windows",
+  "browser": "Discord Client",
+  "release_channel": "ptb",
+  "client_version": "1.0.1012",
+  "os_version": "10.0.19042",
+  "os_arch": "x64",
+  "system_locale": "fr",
+  "client_build_number": 113977,
+  "client_event_source": null
+}
+
+{
+  "os": "Windows",
+  "browser": "Chrome",
+  "device": "",
+  "system_locale": "fr-FR",
+  "browser_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+  "browser_version": "97.0.4692.99",
+  "os_version": "10",
+  "referrer": "",
+  "referring_domain": "",
+  "referrer_current": "",
+  "referring_domain_current": "",
+  "release_channel": "ptb",
+  "client_build_number": 9999,
+  "client_event_source": null
+}
